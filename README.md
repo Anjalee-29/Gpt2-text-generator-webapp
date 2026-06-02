@@ -1,4 +1,4 @@
-# gpt2-text-generator-webapp
+# Gpt2-text-generator-webapp
 
 A lightweight Flask web application that serves a fine-tuned GPT-2 model for interactive text generation. Enter a prompt in the browser and get AI-generated continuations in real time.
 
